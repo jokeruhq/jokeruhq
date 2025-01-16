@@ -40,21 +40,9 @@ WORKSPACES
   ├── ✅ Discord
   └── 💼 Canva
 
-MY REPOS
-  ├── 🤖 snusbase-bot
-  ├── 🔔 python-obfuscator
-  ├── 🎀 proxy-scrapper
-  ├── 👀 intelx-searcher
-  ├── 🎓 chrome-ul
-  ├── 😱 discord-user-logger
-  ├── ✅ discord-account-limiter
-  └── 😈 shodan-email
-
-
 CONTACT ME
-  ├── 💎 Discord: j0k3r_s3rv1c35
-  ├── 💀 Gun.lol: https://guns.lol/j0k3r
-  ├── 🔔 Mail: lovesmoney.contact@proton.me
+  ├── 💎 Discord: joker.uhq
+  ├── 💀 Gun.lol: https://guns.lol/venom_uhq
   └── 📚 Server: https://discord.gg/freeforreal
 ```
 
