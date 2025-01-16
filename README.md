@@ -46,10 +46,4 @@ CONTACT ME
   └── 📚 Server: https://discord.gg/freeforreal
 ```
 
-> **🗿 MY PROFILES 🗿**
-
-- **📥 [Venom](https://guns.lol/venom_uhq)**
-- **📥 [Bskt](https://guns.lol/bskt)**
-- **📥 [Global UHQ](https://guns.lol/global.uhq)** 
-
-<div align='center'><img src='https://www.websitecounterfree.com/c.php?d=9&id=61714&s=1' border='0'>
+<div align='left'><img src='https://www.websitecounterfree.com/c.php?d=9&id=61714&s=1' border='0'>
