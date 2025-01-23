@@ -9,6 +9,9 @@
 - 📷 View, star and fork my GitHub proyects!
 - 👀 I like OSINT!
 - 🥰 Contact me with me Discord (you can view it in my profile)
+- 🎯 I have participated in electronic projects with ESP-32 & Arduino
+- 🪄 Dark skills and legit applications
+- 🗒️ Improving my code everytime
 ```
 
 ```
