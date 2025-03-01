@@ -1,4 +1,4 @@
-# j0k3r
+# j0k3r <img src="https://img.shields.io/github/stars/jokeruhq">
 
 ```
 - 🌎 Python developper
