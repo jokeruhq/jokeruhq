@@ -44,7 +44,7 @@ WORKSPACES
   └── 💼 Canva
 
 CONTACT ME
-  ├── 💎 Discord: joker.uhq
+  ├── 💎 Discord: jokeruhq
   ├── 💀 Gun.lol: https://guns.lol/venom_uhq
   └── 📚 Server: https://discord.gg/freeforreal
 ```
