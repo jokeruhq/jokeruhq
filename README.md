@@ -48,3 +48,5 @@ CONTACT ME
   ├── 💀 Gun.lol: https://guns.lol/venom_uhq
   └── 📚 Server: https://discord.gg/freeforreal
 ```
+
+[![j0k3r profile views](https://u8views.com/api/v1/github/profiles/172614037/views/day-week-month-total-count.svg)](https://u8views.com/github/jokeruhq)
