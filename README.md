@@ -46,18 +46,22 @@ info.txt
     "BATCH",
     "Bash",
     "MarkDown",
-    "VBS"
+    "VBS",
+    "DuckyScript"
   ],
   "operative_systems": [
     "Windows",
-    "Linux (Debian)"
+    "Kali Linux",
+    "Ubuntu"
   ],
   "skills": [
     "OSINT (Open Source Intelligence)",
     "Programming",
     "Learning Cybersecurity",
     "Python Discord Bots",
-    "Linux"
+    "Linux",
+    "Discord",
+    "Social engineering"
   ],
   "workspaces": [
     "Visual Studio Code",
@@ -66,6 +70,7 @@ info.txt
     "GitHub",
     "Discord",
     "Canva"
+    "Kali command promt"
   ]
 }
 ```
