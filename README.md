@@ -34,3 +34,5 @@ info.txt
 ┌── (kali@j0k3r) ─ [~]
 └──╼ $ exit
 ```
+
+> _**config.json**_
