@@ -36,3 +36,36 @@ info.txt
 ```
 
 > _**config.json**_
+
+```json
+{
+  "programming_languages": [
+    "Python",
+    "HTML",
+    "CSS",
+    "BATCH",
+    "Bash",
+    "MarkDown",
+    "VBS"
+  ],
+  "operative_systems": [
+    "Windows",
+    "Linux (Debian)"
+  ],
+  "skills": [
+    "OSINT (Open Source Intelligence)",
+    "Programming",
+    "Learning Cybersecurity",
+    "Python Discord Bots",
+    "Linux"
+  ],
+  "workspaces": [
+    "Visual Studio Code",
+    "Windows Notepad",
+    "Notepad++",
+    "GitHub",
+    "Discord",
+    "Canva"
+  ]
+}
+```
