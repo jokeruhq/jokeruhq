@@ -1,4 +1,4 @@
-w# j0k3r
+# j0k3r
 
 ```bash
 ┌── (kali@j0k3r) ─ [~]
