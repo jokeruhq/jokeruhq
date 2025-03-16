@@ -1,4 +1,4 @@
-> _**terminal**_
+> _**Command promt**_
 
 ```bash
 ┌── (kali@j0k3r) ─ [~]
