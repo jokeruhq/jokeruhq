@@ -1,4 +1,4 @@
-# j0k3r
+w# j0k3r
 
 ```bash
 ┌── (kali@j0k3r) ─ [~]
@@ -30,4 +30,7 @@ info.txt
 🎯 I have participated in electronic projects with ESP-32 & Arduino
 🚀 Dark skills and legit applications
 📜 Improving my code every time
+
+┌── (kali@j0k3r) ─ [~]
+└──╼ $ exit
 ```
