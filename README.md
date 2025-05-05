@@ -1,1 +1,1 @@
--# j0k3r "The mind is like a parachute: it only works if it's open"
+# j0k3r "The mind is like a parachute: it only works if it's open"
