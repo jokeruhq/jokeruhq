@@ -9,7 +9,7 @@
   </pre>
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=25&color=00FF00&background=000000&center=false&vCenter=true&width=800&height=50&lines= jokeruhq@github:~$+whoami" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=25&color=00FF00&background=000000&center=false&vCenter=true&width=800&height=50&lines=  jokeruhq@github:~$+whoami" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=20&duration=2000&pause=500&color=00FF00&background=000000&center=false&vCenter=true&width=800&height=50&lines=Hi+there!+I'm+jokeruhq%2C+a+passionate+developer." alt="Introduction" />
 
